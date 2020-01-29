@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Conditional Error Processing handles HTTP Status code 500",
+			"name": "Conditional Error Processing handles HTTP Status code 5001",
 			"item": [
 				{
 					"name": "http://single4.gateway.webmcloud.com/gateway/Employee%20REST%20Service%20CEP/1.0/employeeService/",
@@ -79,7 +79,7 @@
 			]
 		},
 		{
-			"name": "Conditional Error Processing handles HTTP Status code 404",
+			"name": "Conditional Error Processing handles HTTP Status code 4041",
 			"item": [
 				{
 					"name": "http://single4.gateway.webmcloud.com/gateway/Employee%20REST%20Service%20CEP/1.0/employeeService/",
